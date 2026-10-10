@@ -6,7 +6,7 @@ An end-to-end analytics project: raw hospital admissions data was cleaned in Exc
 
 **Author:** Gopichand Mulakalapalli
 
-![Overview page](screenshots/01_overview.png)
+![Overview page](01_overview.png)
 
 ---
 
@@ -61,7 +61,7 @@ A star schema with one fact table, six dimension tables, and a measures table.
 - **Relationships:** six one-to-many, single-direction (DimDate connects to AdmitDate only)
 - **Measures table:** `_Measures`
 
-![Data model](screenshots/model_view.png)
+![Data model](model_view.png)
 
 ## DAX measures
 
